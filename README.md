@@ -7,4 +7,5 @@ This Jupyter notebook provides a concise introduction to the basic building bloc
 * Creating and manipulating tensors, the fundamental data structure in PyTorch.
 * Performing basic tensor arithmetic operations.
 * Reshaping tensors to fit different neural network requirements.
+
 Whether you are new to machine learning or looking to brush up on the basics, this notebook offers a straightforward and practical approach to understanding the core concepts of ANNs with PyTorch.
