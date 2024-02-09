@@ -9,3 +9,20 @@ This Jupyter notebook provides a concise introduction to the basic building bloc
 * Reshaping tensors to fit different neural network requirements.
 
 Whether you are new to machine learning or looking to brush up on the basics, this notebook offers a straightforward and practical approach to understanding the core concepts of ANNs with PyTorch.
+
+
+# Cat vs Dog Image Classifier (Torch_conv_cat_vs_dog.ipynb
+
+## Introduction
+This project involves building and training a convolutional neural network (CNN) using PyTorch to classify images as either cats or dogs. The model is trained on a dataset containing numerous images of cats and dogs, aiming to achieve high accuracy in distinguishing between the two.
+
+## Project Structure
+Torch_conv_cat_vs_dog.ipynb: The Jupyter notebook contains all the code for loading the dataset, building the CNN model, training the model, and evaluating its performance.
+## Requirements
+* Python 3.6 or higher
+* PyTorch
+* torchvision
+* matplotlib (for visualization)
+* numpy
+## Dataset
+The dataset used for training the model consists of images of cats and dogs.
